@@ -1,0 +1,4 @@
+This game is a mixture of Tetris and Puzzle games. 
+Playing it you must control flying objects and arrange them in a mirrored formation.
+
+Sergey Posokhov  <abc@posokhov.msk.ru>

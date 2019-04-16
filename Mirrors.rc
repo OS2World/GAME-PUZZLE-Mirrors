@@ -1,0 +1,134 @@
+ICON 1 Bmp\Mirrors.ico
+
+BITMAP 1 Bmp\01.bmp
+BITMAP 2 Bmp\02.bmp
+BITMAP 3 Bmp\03.bmp
+BITMAP 4 Bmp\04.bmp
+BITMAP 5 Bmp\05.bmp
+BITMAP 6 Bmp\06.bmp
+BITMAP 7 Bmp\07.bmp
+BITMAP 8 Bmp\08.bmp
+BITMAP 9 Bmp\09.bmp
+BITMAP 10 Bmp\10.bmp
+BITMAP 11 Bmp\11.bmp
+BITMAP 12 Bmp\12.bmp
+BITMAP 13 Bmp\13.bmp
+BITMAP 14 Bmp\14.bmp
+BITMAP 15 Bmp\15.bmp
+BITMAP 16 Bmp\16.bmp
+BITMAP 17 Bmp\17.bmp
+BITMAP 18 Bmp\18.bmp
+BITMAP 19 Bmp\19.bmp
+BITMAP 20 Bmp\20.bmp
+BITMAP 21 Bmp\21.bmp
+BITMAP 22 Bmp\22.bmp
+BITMAP 23 Bmp\23.bmp
+BITMAP 24 Bmp\24.bmp
+BITMAP 25 Bmp\25.bmp
+BITMAP 26 Bmp\26.bmp
+BITMAP 27 Bmp\27.bmp
+BITMAP 28 Bmp\28.bmp
+BITMAP 29 Bmp\29.bmp
+BITMAP 30 Bmp\30.bmp
+BITMAP 31 Bmp\31.bmp
+BITMAP 32 Bmp\32.bmp
+BITMAP 33 Bmp\33.bmp
+BITMAP 34 Bmp\34.bmp
+BITMAP 35 Bmp\35.bmp
+BITMAP 36 Bmp\36.bmp
+BITMAP 37 Bmp\37.bmp
+BITMAP 38 Bmp\38.bmp
+BITMAP 39 Bmp\39.bmp
+BITMAP 40 Bmp\40.bmp
+BITMAP 41 Bmp\41.bmp
+BITMAP 42 Bmp\42.bmp
+BITMAP 43 Bmp\43.bmp
+BITMAP 44 Bmp\44.bmp
+BITMAP 45 Bmp\45.bmp
+BITMAP 46 Bmp\46.bmp
+BITMAP 47 Bmp\47.bmp
+BITMAP 48 Bmp\48.bmp
+
+BITMAP 501 Bmp\501.bmp
+BITMAP 502 Bmp\502.bmp
+BITMAP 503 Bmp\503.bmp
+BITMAP 504 Bmp\504.bmp
+BITMAP 505 Bmp\505.bmp
+BITMAP 506 Bmp\506.bmp
+BITMAP 507 Bmp\507.bmp
+BITMAP 508 Bmp\508.bmp
+BITMAP 509 Bmp\509.bmp
+BITMAP 510 Bmp\510.bmp
+BITMAP 511 Bmp\511.bmp
+BITMAP 512 Bmp\512.bmp
+BITMAP 513 Bmp\513.bmp
+BITMAP 514 Bmp\514.bmp
+BITMAP 515 Bmp\515.bmp
+BITMAP 516 Bmp\516.bmp
+BITMAP 517 Bmp\517.bmp
+BITMAP 518 Bmp\518.bmp
+BITMAP 519 Bmp\519.bmp
+BITMAP 520 Bmp\520.bmp
+BITMAP 521 Bmp\521.bmp
+BITMAP 522 Bmp\522.bmp
+BITMAP 523 Bmp\523.bmp
+BITMAP 524 Bmp\524.bmp
+BITMAP 525 Bmp\525.bmp
+BITMAP 526 Bmp\526.bmp
+BITMAP 527 Bmp\527.bmp
+BITMAP 528 Bmp\528.bmp
+BITMAP 529 Bmp\529.bmp
+BITMAP 530 Bmp\530.bmp
+BITMAP 531 Bmp\531.bmp
+BITMAP 532 Bmp\532.bmp
+BITMAP 533 Bmp\533.bmp
+BITMAP 534 Bmp\534.bmp
+BITMAP 535 Bmp\535.bmp
+BITMAP 536 Bmp\536.bmp
+BITMAP 537 Bmp\537.bmp
+BITMAP 538 Bmp\538.bmp
+BITMAP 539 Bmp\539.bmp
+BITMAP 540 Bmp\540.bmp
+BITMAP 541 Bmp\541.bmp
+BITMAP 542 Bmp\542.bmp
+BITMAP 543 Bmp\543.bmp
+BITMAP 544 Bmp\544.bmp
+BITMAP 545 Bmp\545.bmp
+BITMAP 546 Bmp\546.bmp
+BITMAP 547 Bmp\547.bmp
+BITMAP 548 Bmp\548.bmp
+
+BITMAP 1001 Bmp\Forest.bmp
+BITMAP 1002 Bmp\Stars.bmp
+
+STRINGTABLE
+ BEGIN
+  1  "Зеркала"
+  2  "~Звук"
+  3  "С~ложные предметы"
+  4  "Сп~равка"
+
+  5  "─── Зеркала ───"
+  6  "Игра состоит в управлении летящими предметами."
+  7  "Вы должны располагать предметы зеркально."
+  8  "Для того, чтобы передвигать предметы,"
+  9  "используйте клавиши  ─  ─  и  ─│  или мышь."
+  10 "Нажатие правой кнопки мыши или клавиши Insert"
+  11 "включает сетку. Руководство - F1. Выход - Esc."
+  12 "Разработал Сергей Посохов в 1997 году."
+
+  101 "Mirrors"
+  102  "~Sound"
+  103  "~Implexing objects"
+  104  "~Help"
+
+  105  "─── Mirrors game ───"
+  106  "Playing this game you must control flying objects."
+  107  "You must arrange objects mirrorly."
+  108  "You can move or transfer a flying object"
+  109  "using a  ─  ─  and  ─│  keys or mouse."
+  110 "Right mouse button and Insert key"
+  111 "toggles a grid. F1 - Help. Esc - Exit."
+  112 "Developed by Sergey Posokhov in 1997."
+ END
+
